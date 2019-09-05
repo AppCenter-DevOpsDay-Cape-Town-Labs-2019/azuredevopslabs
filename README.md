@@ -1,12 +1,3 @@
----
-title: Build-Test-Distribute Mobile Apps using App Center
-layout: page
-sidebar: vsts2
-permalink: /labs/vstsextend/appcenter/
-folder: /labs/vstsextend/appcenter/
----
-<div class="rw-ui-container"></div>
-
 ## Overview
 
 [Visual Studio App Center](https://appcenter.ms/) is an integrated mobile development lifecycle solution for iOS, Android, Windows and macOS apps. It brings together multiple services commonly used by mobile developers, including build, test, distribute, monitor, diagnose , etc., into one single integrated cloud solution.
